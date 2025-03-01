@@ -112,6 +112,7 @@ envclass
 # Ignorar carpetas de fotos
 /fotos_clasificadas/
 /fotos_sin_clasificar/
+/fotos_clasificadas_ia/
 
 # Ignorar modelos de clasificación
 /modelo/
